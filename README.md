@@ -34,13 +34,13 @@ This project demonstrates how to build a simple Java Maven application using Jen
 
 2. Under Source Code Management, choose:
 
-       Git (enter repository URL) 
+ 1. Git (enter repository URL) 
 
-      1.  Under Build, select:
+ 2. Under Build, select:
 
-       Invoke top-level Maven targets.
+    Invoke top-level Maven targets.
 
-       Goals: clean package.
+ 3. Goals: clean package.
 
 ### 5. Build and Verify
 
