@@ -4,7 +4,7 @@
 This project demonstrates how to build a simple Java Maven application using Jenkins as part of a CI/CD workflow.
 
 
-## 🛠 Tools Used
+## Tools Used
 - **Jenkins** (Installed via Docker)
 - **Java JDK 8 or above version** 
 - **Maven**
