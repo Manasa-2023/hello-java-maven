@@ -34,7 +34,7 @@ This project demonstrates how to build a simple Java Maven application using Jen
 
 2. Under Source Code Management, choose:
 
- 1. Git (enter repository URL) 
+    Git (enter repository URL) 
 
  2. Under Build, select:
 
